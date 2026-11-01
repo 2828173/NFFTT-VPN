@@ -2,7 +2,7 @@
 Быстрый NFFTT VPN 
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">NFFTTVPN</string>
+    <string name="app_name" translatable="false">VPN</string>
     <string name="app_widget_name">Switch</string>
     <string name="app_tile_name">Switch</string>
     <string name="app_tile_first_use">Add a profile in the app before using this feature.</string>
