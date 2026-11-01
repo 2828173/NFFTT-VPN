@@ -1,4 +1,4 @@
-# NFFTT-VPN
+8# NFFTT-VPN
 Быстрый NFFTT VPN 
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
@@ -567,5 +567,3 @@
     <string name="sub_info_open_page">Open subscription page</string>
     <string name="sub_info_traffic" translatable="false">%1$s / %2$s</string>
     <string name="sub_info_unlimited">Unlimited</string>
-
-</resources>
